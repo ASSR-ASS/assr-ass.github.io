@@ -1,4 +1,4 @@
 ---
-layout: merger-disabled
+layout: merger
 ---
 
